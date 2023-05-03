@@ -12,6 +12,16 @@
    <a href=https://orcid.org/0000-0002-1693-4719><img src="https://img.shields.io/badge/Orcid-green?style=for-the-badge&logo=orcid&logoColor=gray" alt="Orcid Badge"></a>
 </div>
 
+### Languages
+
+<div id="badges">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+</div>
+  
 <!--
 **barriern/barriern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -33,5 +43,4 @@ Here are some ideas to get you started:
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=barriern&count_private=true&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barriern&layout=compact&theme=nord&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
 
