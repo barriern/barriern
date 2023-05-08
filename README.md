@@ -19,7 +19,15 @@
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+ <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+</div>
+  
+### Tools
+
+<div id="badges">
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white"/>
 </div>
   
 <!--
@@ -43,8 +51,6 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=barriern&theme=dark)](https://git.io/streak-stats)
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=barriern&count_private=true&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barriern&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barriern&count_private=true&layout=compact&theme=nord&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
 
