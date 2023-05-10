@@ -22,17 +22,28 @@
  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 </div>
   
-### Tools
+### Development Tools
 
 <div id="badges">
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white"/>
 </div>
+
+### Git Tools
+
+
+<div id="badges">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/LFS-F64935?style=for-the-badge&logo=gitlfs&logoColor=white"/>
+ </div>
   
 <!--
 **barriern/barriern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Icons: https://simpleicons.org/
 Cf. https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b for badges
 
 Here are some ideas to get you started:
