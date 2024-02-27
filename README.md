@@ -1,9 +1,5 @@
 ### Nicolas Barrier's profile
 
-<div id="header" align="center">
-  <a href=https://nicolasbarrier.fr><img src="https://raw.githubusercontent.com/barriern/barriern/master/avatar2-github.png " width=150px alt="LinkedIn Badge"></a>
-</div>
-
 ### 📫 How to reach me
 
 <div id="badges">
